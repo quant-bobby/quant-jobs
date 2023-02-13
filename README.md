@@ -12,6 +12,7 @@ A collection of resources to find quant jobs and pass the interviews.
 - [Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading](https://www.amazon.com/dp/1118362411?ref_=cm_sw_r_cp_ud_dp_SDAXQWV4W87B5321N93G): A great book that peals back the cover on what high frequency trading is and what quants do.
 - [A Practical Guide to Quantitative Finance Interviews](https://a.co/d/aZAG1Hi): Often called the "Green Book", this book is great for preparing for quantitative finance interviews.
 - [Heard on the Street](https://a.co/d/3tlhVBV): This book has a plethora of brain-teaser style questions that pop up in quant interviews.
+- [Frequently Asked Questions in Quantitative Finance](https://a.co/d/9noCUND): This book distills down complex quantitative finance topics into simple descriptions.
 
 ### Practice
 
