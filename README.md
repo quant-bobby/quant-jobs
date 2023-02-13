@@ -13,6 +13,7 @@ A collection of resources to find quant jobs and pass the interviews.
 - [Learn About Quantitative Trading](https://www.amazon.com/dp/1118362411?ref_=cm_sw_r_cp_ud_dp_SDAXQWV4W87B5321N93G): A great book that peals back the cover on what high frequency trading is and what quants do.
 - [The Green Book](https://a.co/d/aZAG1Hi): Often called the "Green Book", this book is great for preparing for quantitative finance interviews.
 - [Interview Questions](https://a.co/d/3tlhVBV): This book has a plethora of brain-teaser style questions that pop up in quant interviews.
+- [Statistics + Brainteaser Questions](https://brainstellar.com/): Brainstellar has a large list of brain teaser and statistics practice problems.
 
 ## Companies
 
