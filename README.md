@@ -6,14 +6,27 @@ The ultimate guide to landing a job or internship in quantitative finance.
 
 A collection of resources to find quant jobs and pass the interviews.
 
-- [Quantitative Finance Jobs and Internships](http://openquant.co/): A job board for finding jobs and internships in quantitative finance.
-- [Quantitative Finance Salaries](https://openquant.co/salaries): A community-collected table of quantitative finance salaries.
-- [Quantitative Finance Interview Prep](https://openquant.co/math-game): A series of math arithmetic and sequence games to prepare for quant trader and quant researcher OA.
-- [Statistics and Machine Learning](https://www.amazon.co.uk/dp/0387848576?ref_=cm_sw_r_cp_ud_dp_D8Q2KR01TDD1B6XPHYAA): Often regarded as the bible of data science, this is one of the best books to learn modern machine learning concepts.
-- [Learn About Quantitative Trading](https://www.amazon.com/dp/1118362411?ref_=cm_sw_r_cp_ud_dp_SDAXQWV4W87B5321N93G): A great book that peals back the cover on what high frequency trading is and what quants do.
-- [The Green Book](https://a.co/d/aZAG1Hi): Often called the "Green Book", this book is great for preparing for quantitative finance interviews.
-- [Interview Questions](https://a.co/d/3tlhVBV): This book has a plethora of brain-teaser style questions that pop up in quant interviews.
-- [Statistics + Brainteaser Questions](https://brainstellar.com/): Brainstellar has a large list of brain teaser and statistics practice problems.
+### Books
+
+- [The Elements of Statistical Learning](https://www.amazon.co.uk/dp/0387848576?ref_=cm_sw_r_cp_ud_dp_D8Q2KR01TDD1B6XPHYAA): Often regarded as the bible of data science, this is one of the best books to learn modern machine learning concepts.
+- [Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading](https://www.amazon.com/dp/1118362411?ref_=cm_sw_r_cp_ud_dp_SDAXQWV4W87B5321N93G): A great book that peals back the cover on what high frequency trading is and what quants do.
+- [A Practical Guide to Quantitative Finance Interviews](https://a.co/d/aZAG1Hi): Often called the "Green Book", this book is great for preparing for quantitative finance interviews.
+- [Heard on the Street](https://a.co/d/3tlhVBV): This book has a plethora of brain-teaser style questions that pop up in quant interviews.
+
+### Practice
+
+- [OpenQuant Mental Math](https://openquant.co/math-game): A series of math arithmetic and sequence games to prepare for quant trader and quant researcher OA.
+- [Brainstellar](https://brainstellar.com/): Brainstellar has a large list of brain teaser and statistics practice problems.
+
+### Jobs
+
+- [OpenQuant](https://openquant.co): A job board for finding jobs and internships in quantitative finance.
+
+### Salaries
+
+- [Levels.fyi](https://www.levels.fyi) - A large collection of user-submitted salaries. 
+- [OpenQuant Salaries](https://openquant.co/salaries): A community-collected table of quantitative finance salaries.
+
 
 ## Companies
 
