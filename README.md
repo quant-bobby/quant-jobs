@@ -15,7 +15,7 @@ A collection of resources to find quant jobs and pass the interviews.
 - [Frequently Asked Questions in Quantitative Finance](https://a.co/d/9noCUND): This book distills down complex quantitative finance topics into simple descriptions.
 
 ### Practice
-
+- [QuantGuide](https://quantguide.io): Practice hundreds of free probability, statistics, and brainteaser problems asked by top quant firms.
 - [OpenQuant Mental Math](https://openquant.co/math-game): A series of math arithmetic and sequence games to prepare for quant trader and quant researcher OA.
 - [Brainstellar](https://brainstellar.com/): Brainstellar has a large list of brain teaser and statistics practice problems.
 
